@@ -22,6 +22,21 @@ To use either script, simply run it in your terminal and follow the prompts:
 
 The script will then output the encoded or decoded string.
 
+
+**License**
+
+This script is open source
+
+**Contributing**
+
+If you'd like to contribute to this repository, please fork it and submit a pull request. I'd love to hear your suggestions or improvements!
+
+**Author**
+
+Upesh Bhujel
+
+Feel free to customize this `README.md` file to fit your needs. Make sure to update the `Author` section with your own name. Good luck with your GitHub repository!
+
 **Example**
 ### Rot13 Encoding
 
@@ -49,16 +64,3 @@ Rot 47 encoded string: pFS:]i~Fzq
 
 
 
-**License**
-
-This script is open source
-
-**Contributing**
-
-If you'd like to contribute to this repository, please fork it and submit a pull request. I'd love to hear your suggestions or improvements!
-
-**Author**
-
-Upesh Bhujel
-
-Feel free to customize this `README.md` file to fit your needs. Make sure to update the `Author` section with your own name. Good luck with your GitHub repository!
